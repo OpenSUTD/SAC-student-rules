@@ -1,4 +1,4 @@
-# SAC Roadmap, Sept 2019
+# SAC Roadmap Sept 2019
 
 **AKA: What do we do with the SAC?**
 
@@ -22,7 +22,20 @@ This also means that the time is ripe for a full review of processes and for a r
 
 ## Overview of Developments
 
+This roadmap can primarily be divided into two larger chunks:
 
+1. Necessary changes to improve the state of the SAC and move it into good working condition
+2. Proposed improvements to better suit the SAC's three major goals.
+
+### Necessary Changes
+
+In this section, we outline some key features that are necessary to restore the SAC into a good working condition.
+
+#### Shelving and Storage Solutions
+
+At the current, key-locked rooms are currently used as storage spaces for clubs. This is not expected to change in the immediate future as part of the agreement made with student clubs for their assistance in cleaning up the legacy mess.
+
+The SAC has need for additional shelving if any of the locked rooms are to be used as Student Clubs' storage spaces and work spaces, as current space utilization is inefficient.
 
 Wants
 
