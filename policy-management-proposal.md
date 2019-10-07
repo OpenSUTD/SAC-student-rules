@@ -3,7 +3,42 @@
 [toc]
 
 ## Changelog
-**key results of meetings, track changes**
+<!-- key results of meetings, track changes-->
+
+### **1st pre-SAC Assembly: 30 September 2019**
+
+*In Attendance:* 
+1. PY, incoming Maker Rep, 2019-
+2. KJ, outgoing Maker Rep, 2018-2019
+3. SW, outgoing Arts/Culture Rep, 2018-2019
+4. SV, incoming Arts/Culture Rep, 2019-
+5. Student Clubs: Gunpla, SUTDio, Makerspace, MechD, SOAR, IEEE, 
+
+#### Key Points
+
+* Rooms
+    * One of the key-locked rooms is planned to be a 'mini-workshop' for Makers - complement Fabrication Lab and foster culture
+    * No heavy equipment or equipment that will stress the ventilation systems
+    * Room occupied by multimedia clubs left as-is
+    * Possible pooling of resources of clubs in Workshop space
+* SAC as a whole
+    * Vision as common space for projects/meetings/etc.
+    * Not to be used as dumping ground
+    * Ground Truth is the Github repository
+    * Requests / Issues/ Edits should be submitted to Github
+* Lockers
+    * Locker keys will be issued when requests are approved
+    * Target deadline end-of-term (Dec 2019) for full key takeover
+* Common Area
+    * No spray-painting or staining of common spaces
+    * Idea: Reconfigurable working space 
+    * Idea: Large screen for project collaboration
+* Maintainance
+    * Cleanup to be done termly: all users expected to contribute
+    * Clean up after use - "don't be a dick" principle
+* Fifth-Row Pages
+    * OpenSUTD is offering namespace for Fifth Rows for their own club pages.
+
 
 ## Motivations
 
@@ -11,10 +46,15 @@
 
 The Student Activities Centre, also known as the SAC, was originally envisioned as a space for students' use when we first relocated from the Dover campus.
 
-In its initial iterations, 
- SAC first envisioned as a space for students. Held concerts last time
+In its initial iterations when the school first moved into the Somapah campus from Dover, the SAC set out to be a space for students to work. Past batches of SUTD students have used the space for various activities: a concert by SUTDCO was once held in the SAC.
+
+Over time, however, due to both a lack of student engagement, and missteps in management and enforcement, the Student Activities Centre slowly lapsed into a dumping ground and storage space - with few students even knowing of the space, much less using it.
+
+In 2018, a team of students from various Fifth Rows spearheaded a cleanup of the space, and the SAC has been student-managed since.
+ 
+ <!-- SAC first envisioned as a space for students. Held concerts last time
  Became a storage space due to lack of maintenance and stakeholder management
- '18 cleaned up and maintained by students henceforth.
+ '18 cleaned up and maintained by students henceforth.-->
 
 ### Student Need
 
@@ -61,12 +101,38 @@ We are always beholden to the policy of the school, as we exist on school ground
 
 We are responsible to our users, and those who frequently upkeep the space. We understand that the space belongs to no single party, and that the space must accomodate those who have need of it, wherever possible.
 
+As a student-managed space, the representatives from the Student Association Council are the arbiters of disputes and also their guardians. 
+
 As this is a student managed space, the SAC reps are arbiters. Cluster Reps?
 
 
 ### Checks and Balances
+
+This uses the [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) system for assignment of responsibilities.
+
+| Process | Cluster Rep(s) | Office (Student Life) | Users w/ Space | Requestors | Students |
+| -------- | -------- | -------- | -------- | -------- |  -------- |
+| Room Space Requests | A | I | C | R | I |
+| Locker Space Requests | A | I | I | R | I | 
+| Moderation of Users | R | I | C | I | I |
+| Enforcement of Policy | A | I | R | I | C |
+| Termly Maintenance | A | I | R | I | R |
+| Yearly Review | R | C | C | C | I |
+
+Users who maintain a space within the SAC are expected to adhere to the following responsibilities:
+1. Participate in the termly clean-up of the SAC space.
+2. Comply with safe operation procedures while using the SAC space.
+
+This is not an exhaustive list, and users are encouraged to take care of the space and contribute back to it.
+
+Disputes should be handled at the **user-level** first. *If and only if* affected parties are unable to reach an amiable conclusion by themselves, they should approach the representatives or another user to mediate their conflict.
+
+If all else fails, the Representative will consult the Office of Student Life. Representatives hold final say over the decision of such matters.
+
+
+<!--
 Review cycle (who is in the RACI)
-Dispute resolution framework
+Dispute resolution framework-->
 
 
 ### Implementation of Policy
@@ -84,11 +150,23 @@ Start check and balance, review when it's time
 HOTO process
 
 ## Floor Plan
-Space use concept: neutral co-working space, reconfigurable
 
---procurement plan (new stuff)
+### Concept
+**A neutral co-working space designed to support students' activities**
+<!--Space use concept: neutral co-working space, reconfigurable-->
+
+[Resource Proposal Document](./resource-proposal-sept-2019.md)
+[Proposed Floorplans](./img/sac-floorplan-sept2019.png)
 
 ## Management Processes
+
+### Operational Concept
+**Accountable and Responsible Self-service and Registration**
+
+### Management Policies
+
+We believe that students and student associations should be able to self-serve when it comes to the Student Activities Centre, and we trust that students can be responsible users of the space.
+
 Operational concept: accountable self-service after registration
 How: open documents for users to read themselves, key decision makers kept contactable, always close the loop when using space temporary
 
