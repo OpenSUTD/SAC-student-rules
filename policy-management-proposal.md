@@ -58,6 +58,19 @@ In 2018, a team of students from various Fifth Rows spearheaded a cleanup of the
 
 ### Student Need
 
+#### Long-standing Student Needs
+
+Students have consistently requested for spaces that they can use - complaints are common over the lack of rooms for meetings, and often, hostel spaces are requested but refused.
+
+Other times, during peak periods for projects, like during Term 5, with Engineering Design Innovation (30.007), students often complain that there is a lack of space for project storage in-between work sessions, or that workspaces and testing spaces are limited.
+
+Combined, we see that there is a significant need for student spaces where they can **work without worry** and **meet with ease.**
+
+<!---
+#### Previous Issues 
+
+Previously, there have also been issues 
+
  Pi-Lab issues
  
  Project space needs
@@ -65,7 +78,7 @@ In 2018, a team of students from various Fifth Rows spearheaded a cleanup of the
  Ad-hoc meeting space
  
  Temporary storage location
- 
+ --->
 
 ## Policy Framework
 
@@ -119,7 +132,7 @@ This uses the [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_mat
 | Termly Maintenance | A | I | R | I | R |
 | Yearly Review | R | C | C | C | I |
 
-Users who maintain a space within the SAC are expected to adhere to the following responsibilities:
+Users who maintain a space within the SAC are expected to adhere to the following minimum responsibilities:
 1. Participate in the termly clean-up of the SAC space.
 2. Comply with safe operation procedures while using the SAC space.
 
@@ -137,6 +150,15 @@ Dispute resolution framework-->
 
 ### Implementation of Policy
 
+#### Pre-takeover (Before Sept 2019)
+
+**--PENDING FURTHER DOCUMENT REVIEW--**
+
+#### Phase 1 (20th Sept 2019 - )
+
+20/9/2019: Meeting between clubs currently holding space in the SAC was called by Maker Representative-elect PY: Meeting was held in the SAC, and policy document drafting was agreed upon. Responsibilities were agreed upon.
+
+<!--
 Before 20/9 - draft on opensutd github, prototype maangement style
 Write it out in a Case style (What happened when, why and how it was resolved. Who was involved)
 
@@ -148,7 +170,7 @@ until 5th row forum - open call for feedback
 
 Start check and balance, review when it's time
 HOTO process
-
+-->
 ## Floor Plan
 
 ### Concept
@@ -156,6 +178,7 @@ HOTO process
 <!--Space use concept: neutral co-working space, reconfigurable-->
 
 [Resource Proposal Document](./resource-proposal-sept-2019.md)
+
 [Proposed Floorplans](./img/sac-floorplan-sept2019.png)
 
 ## Management Processes
@@ -172,6 +195,6 @@ How: open documents for users to read themselves, key decision makers kept conta
 
 [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 
-![](https://i.imgur.com/O00wmFn.png)
-![](https://i.imgur.com/7FiBfgh.png)
+![RACI Labels](https://i.imgur.com/O00wmFn.png)
+![Example RACI](https://i.imgur.com/7FiBfgh.png)
 
