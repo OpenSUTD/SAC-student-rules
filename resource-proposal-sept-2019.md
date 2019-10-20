@@ -8,7 +8,21 @@ This document outlines a roadmap of developments planned for the Student Activit
 2. Increasing available space for users
 3. Providing facilities for student clubs
 
-## Why Now?
+## Table of Contents
+
+- [SAC Roadmap Sept 2019](#sac-roadmap-sept-2019)
+  - [Table of Contents](#table-of-contents)
+  - [Why Now](#why-now)
+  - [Overview of Developments](#overview-of-developments)
+    - [Necessary Changes](#necessary-changes)
+      - [Shelving and Storage Solutions](#shelving-and-storage-solutions)
+      - [Shelving Racks in Rooms](#shelving-racks-in-rooms)
+      - [Lockers and Secured Storage](#lockers-and-secured-storage)
+    - [Facilities Refurbishment](#facilities-refurbishment)
+      - [Electrical Supply](#electrical-supply)
+      - [Plumbing](#plumbing)
+
+## Why Now
 
 Prior to this, the SAC has had a fair share of problems:
 
@@ -64,8 +78,36 @@ For users of the SAC that may not have access to the key-locked rooms, lockable 
 
 The current locker solutions should be refurbished to support reprogrammable locks that can be reset with either a master key or while open.
 
+Otherwise, if not possible, spare keys should be made available.
+
+### Facilities Refurbishment
+
+Over years of use and misuse, several parts of the SAC have fallen into disrepair. These include critical infrastructure segments, like the electrical system and plumbing.
+
+#### Electrical Supply
+
+Most of the electrical plugs that are installed in the recesses of the floor have become unusable. They are either too loose to be safe to operate, or are entirely dead - making finding electrical supplies reliant on multi-plugs and the few sockets that are still usable.
+
+Hence, a full electrical overhaul of the space is needed. All of the electrical sockets need to be repaired to their original state, and the recessed spaces need to be cleaned out, with additional sockets installed to capacity.
+
+This means that each electrical recess space must have the following:
+
+- Four (4) fully-functional electrical sockets, fitted for UK plugs
+- Recess covers should not bulge when a standard laptop plug is inserted.
+- All sockets must be rigid.
+
+#### Plumbing
+
+At the current, both water pressure and drainage are lackluster in the SAC. As such, the following measures are proposed:
+
+- Faucet should be mounted in a recess that is at least 5mm lower than the countertop.
+- Faucet recess should have a countertop area that has the same open surface area as the sink.
+- Faucet should be able to fill a 1L bottle in 5 seconds or less.
+- Drainage sink should be cleared.
+
 ---
 
+<!--
 #### Wants
 
 1. A better and more accessible method of verifying users and automatically allowing keys to be released without the precence of the people in charge of SAC
@@ -75,4 +117,4 @@ The current locker solutions should be refurbished to support reprogrammable loc
 
 1. More shelving
 2. More cleaning
-3. More responsibility
+3. More responsibility -->
