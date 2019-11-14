@@ -1,5 +1,5 @@
 ---
-name: Request - Access
+name: Request - Accessing Items
 about: Requesting for locked-access areas to be opened
 title: "[ROOM]"
 labels: help wanted, request
