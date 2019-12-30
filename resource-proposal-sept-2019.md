@@ -12,6 +12,8 @@ This document outlines a roadmap of developments planned for the Student Activit
 
 - [SAC Roadmap Sept 2019](#sac-roadmap-sept-2019)
   - [Table of Contents](#table-of-contents)
+  - [Changelog](#changelog)
+    - [December 2019 Update](#december-2019-update)
   - [Why Now](#why-now)
   - [Overview of Developments](#overview-of-developments)
     - [Necessary Changes](#necessary-changes)
@@ -21,6 +23,19 @@ This document outlines a roadmap of developments planned for the Student Activit
     - [Facilities Refurbishment](#facilities-refurbishment)
       - [Electrical Supply](#electrical-supply)
       - [Plumbing](#plumbing)
+      - [Wants](#wants)
+      - [Needs](#needs)
+
+## Changelog
+
+### December 2019 Update
+
+OSL has notified that certain things are simply not feasible to undertake:
+
+- Faucet-sink replacement
+- Re-levelling of power sources
+- Expansion of number of power sources
+- Purchase of additional reusable lockers (More lockers have been provisioned for instead.)
 
 ## Why Now
 
@@ -65,20 +80,32 @@ These shelves should also have backing that can either be mounted onto the suppo
 
 Care should also be taken to ensure that the racks may be shifted around for users, and if bolted together should be removable with minimal effort on the part of users.
 
+> **Addendum Dec 2019**
+>
+> We have been informed by OSL that shelving racks have been purchased, and are being made generally available once the finalized area management plan is done.
+
 #### Lockers and Secured Storage
 
 For users of the SAC that may not have access to the key-locked rooms, lockable storage should be made available for users to store items securely between workdays.
 
+**Removed: Check addendum below.**
+
+<!--
 - Metal/Plastic lockers
   - Minimum volume of 30cm (width) by 40cm (depth) by 40cm (height)
   - Should be configurable with master key override
   - Proposed Budget: \$200 per locker bank
   - Metal preferred
   - Combinable lockers preferred
+-->
 
 The current locker solutions should be refurbished to support reprogrammable locks that can be reset with either a master key or while open.
 
 Otherwise, if not possible, spare keys should be made available.
+
+> **Addendum**
+>
+> We have been informed that OSL has refurbished all of the existing lockers for now, and that current budgetary constraints do not allow for the purchase of new lockers, especially since the Spacebar is being closed. Lockers from Spacebar will be used to augment current storage instead.
 
 ### Facilities Refurbishment
 
@@ -90,20 +117,28 @@ Most of the electrical plugs that are installed in the recesses of the floor hav
 
 Hence, a full electrical overhaul of the space is needed. All of the electrical sockets need to be repaired to their original state, and the recessed spaces need to be cleaned out, with additional sockets installed to capacity.
 
-This means that each electrical recess space must have the following:
+This means that each electrical recess space should have the following:
 
-- Four (4) fully-functional electrical sockets, fitted for UK plugs
-- Recess covers should not bulge when a standard laptop plug is inserted.
+- ~~Four (4) fully-functional electrical sockets, fitted for UK plugs~~ **See Addendum below**
+- ~~Recess covers should not bulge when a standard laptop plug is inserted.~~ **See Addendum below**
 - All sockets must be rigid.
+
+> **Addendum Dec 2019**
+>
+> We have been informed by ENGIE maintenance that the modifications to the floor are not possible, since doing so would require tearing up the entire flooring to rebuild the space. They have however agreed to test and refresh all of the electrial mains and tighten up the sockets.
 
 #### Plumbing
 
 At the current, both water pressure and drainage are lackluster in the SAC. As such, the following measures are proposed:
 
-- Faucet should be mounted in a recess that is at least 5mm lower than the countertop.
-- Faucet recess should have a countertop area that has the same open surface area as the sink.
-- Faucet should be able to fill a 1L bottle in 5 seconds or less.
+- ~~Faucet should be mounted in a recess that is at least 5mm lower than the countertop.~~
+- ~~Faucet recess should have a countertop area that has the same open surface area as the sink.~~
+- ~~Faucet should be able to fill a 1L bottle in 5 seconds or less.~~ **See Addendum Below**
 - Drainage sink should be cleared.
+
+> **Addendum Dec 2019**
+>
+> ENGIE maintenance has informed us that replacing the faucet and sink is impractical as it requires tearing out the entirety of the kitchenette island. They have instead repaired what they could with the water pressure and the faucet.
 
 ---
 
