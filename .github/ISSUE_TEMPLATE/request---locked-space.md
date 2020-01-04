@@ -3,7 +3,7 @@ name: Request - Locked Storage for new items
 about: Requesting for a space that is secured by more than just the card scan for new item storage
 title: "[REQ:LS]"
 labels: locked storage, request
-assignees: Kazykiddo, lyqht, piroton, SolsticeDante, weiying98
+assignees: Kazykiddo, whenderpsfly, piroton, weiying98
 
 ---
 
