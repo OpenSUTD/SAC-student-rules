@@ -3,7 +3,7 @@ name: Request - Accessing Items
 about: Requesting for locked-access areas to be opened
 title: "[ROOM]"
 labels: help wanted, request
-assignees: Kazykiddo, whenderpsfly, piroton
+assignees: Kazykiddo, whenderpsfly, piroton, 0nicholasloh
 
 ---
 
