@@ -23,7 +23,7 @@ The SAC is a place that is there to **support student activities and provide the
 
 The SAC furniture is to be kept _clean and tidy_. Don't be that person who slobbers all over tables and ruins it for everyone.
 
-At the same time, make sure that the floor is clear of detritus and the like before you leave! Nobody likes working on dirty floors.
+At the same time, make sure that the floor is clear of shavings/dirt and the like before you leave! Nobody likes working on dirty floors.
 
 ### Garbage
 
